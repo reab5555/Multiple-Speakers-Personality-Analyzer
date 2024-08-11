@@ -69,16 +69,6 @@ The source material used for embedding consists of academic documents on attachm
 
 <img src="appendix/AI Personality Detection flow - 2.png" width="700" alt="alt text">
 
-## Configuration
-
-The project uses several configuration files to customize tasks and knowledge bases:
-
-- **Knowledge Base Files**:
-  - `knowledge/bartholomew_attachments_definitions.txt`
-  - `knowledge/bigfive_definitions.txt`
-  - `knowledge/personalities_definitions.txt`
-- **Task Files**:
-  - `tasks/general_task.txt`
   - `tasks/Attachments_task.txt`
   - `tasks/BigFive_task.txt`
   - `tasks/Personalities_task.txt`
