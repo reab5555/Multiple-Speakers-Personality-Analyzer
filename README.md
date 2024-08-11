@@ -1,4 +1,4 @@
-# AI-Personality-Detection
+# Multiple-Speakers-AI-Personality-Detection
 This project provides an advanced AI system designed for diagnosing and profiling personality attributes from video content based on a single speaker or multiple speakers in a conversation. The system transcribes video content, identifies speakers, and performs a comprehensive analysis of attachment styles, Big Five personality traits, and personality disorders.
 
 ## Table of Contents
