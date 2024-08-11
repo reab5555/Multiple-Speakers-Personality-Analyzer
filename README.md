@@ -44,20 +44,10 @@ Additionally, the system can process and analyze interpersonal dynamics and conv
 2. **Identify Language**: Detect the language of the conversation.
 3. **Transcription**: Convert spoken content into written text.
 4. **Transcript by Speakers**: Create a structured transcript with speaker labels.
-
-#### Get Answers
-
 1. **Knowledge Integration**: Enhance the LLM with external knowledge about Attachments, Big Five traits, and Personalities.
 2. **Task Definition**: Define specific tasks that guide the LLM on how to analyze the transcript.
 3. **LLM Processing**: Use the LLM to analyze the transcript according to the tasks and integrated knowledge.
-
-#### Parsing Outputs
-
-1. **Parse and Format Outputs**: Structure the analysis results into human-readable formats.
-
-#### Final Results
-
-1. The results are visualized and presented in a user-friendly format.
+**Parse and Format Outputs**: Structure the analysis results into human-readable formats.
 
 ## Configuration
 
