@@ -21,7 +21,6 @@ Additionally, the system can process and analyze interpersonal dynamics and conv
 - **User-Friendly Interface**: Simple to use interface built with Gradio.
 
 
-<img src="appendix/AI Personality Detection flow - 1.png" width="500" alt="alt text">
 
 ## Workflow Overview
 
@@ -32,9 +31,9 @@ Additionally, the system can process and analyze interpersonal dynamics and conv
 - **Knowledge Integration**: Enhance the LLM with external knowledge about Attachments, Big Five traits, and Personalities.   
 - **Task Definition**: Define specific tasks that guide the LLM on how to analyze the transcript.   
 - **LLM Processing**: Use the LLM to analyze the transcript according to the tasks and integrated knowledge.   
-- **Parse and Format Outputs**: Structure the analysis results into human-readable formats.   
+- **Parse and Format Outputs**: Structure the analysis results into human-readable formats.
 
-<img src="appendix/AI Personality Detection flow - 2.png" width="500" alt="alt text">
+<img src="appendix/AI Personality Detection flow - 1.png" width="500" alt="alt text">
 
 ## Technical Details
 
@@ -44,6 +43,8 @@ Additionally, the system can process and analyze interpersonal dynamics and conv
 - **LLM (ChatOpenAI)**: The Large Language Model processes the transcript using the task instructions and knowledge.
 - **Output Parsing**: The results are parsed and formatted.
 - **Results**: Final results are generated, which include visualizations and detailed analyses.
+
+<img src="appendix/AI Personality Detection flow - 2.png" width="500" alt="alt text">
 
 ## Configuration
 
