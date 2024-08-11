@@ -34,7 +34,7 @@ Additionally, the system can process and analyze interpersonal dynamics and conv
         Step 3: A language model generates an answer using the top retrieved documents as context.
 
 ### Knowledge Corpus:
-The source material used for embedding consists of 25 academic documents on attachment styles and personalities, all with high theoretical and empirical validity. This collection also includes relevant questionnaires and diagnostic manuals such as DSM-5 and PDM-2.
+The source material used for embedding consists of academic documents on attachment styles and personalities, all with high theoretical and empirical validity. This collection also includes relevant questionnaires and diagnostic manuals such as DSM-5 and PDM-2.
 
 ## Workflow Overview
 
