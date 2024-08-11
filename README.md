@@ -23,23 +23,23 @@ Additionally, the system can process and analyze interpersonal dynamics and conv
 
 <img src="appendix/AI Personality Detection flow - 1.png" width="500" alt="alt text">
 
-**Diarization**: Identify and label speakers in the video.    
-**Identify Language**: Detect the language of the conversation.   
-**Transcription**: Convert spoken content into written text.   
-**Transcript by Speakers**: Create a structured transcript with speaker labels.   
-**Knowledge Integration**: Enhance the LLM with external knowledge about Attachments, Big Five traits, and Personalities.   
-**Task Definition**: Define specific tasks that guide the LLM on how to analyze the transcript.   
-**LLM Processing**: Use the LLM to analyze the transcript according to the tasks and integrated knowledge.   
-**Parse and Format Outputs**: Structure the analysis results into human-readable formats.   
+- **Diarization**: Identify and label speakers in the video.    
+- **Identify Language**: Detect the language of the conversation.   
+- **Transcription**: Convert spoken content into written text.   
+- **Transcript by Speakers**: Create a structured transcript with speaker labels.   
+- **Knowledge Integration**: Enhance the LLM with external knowledge about Attachments, Big Five traits, and Personalities.   
+- **Task Definition**: Define specific tasks that guide the LLM on how to analyze the transcript.   
+- **LLM Processing**: Use the LLM to analyze the transcript according to the tasks and integrated knowledge.   
+- **Parse and Format Outputs**: Structure the analysis results into human-readable formats.   
 
 <img src="appendix/AI Personality Detection flow - 2.png" width="500" alt="alt text">
 
-**Transcription & Diarization (AWS Transcribe)**: The audio is transcribed to text, with speaker diarization to label each segment by different speakers.
-**Embeddings & QA Retrieval**: Embeddings are generated, which are used in a question-answer retrieval system augmented by external knowledge and specific tasks.
-**Tasks & Knowledge**: Task-specific instructions and knowledge sources are employed to guide the LLM in analyzing the transcript.
-**LLM (ChatOpenAI)**: The Large Language Model processes the transcript using the task instructions and knowledge.
-**Output Parsing**: The results are parsed and formatted.
-**Results**: Final results are generated, which include visualizations and detailed analyses.
+- **Transcription & Diarization (AWS Transcribe)**: The audio is transcribed to text, with speaker diarization to label each segment by different speakers.
+- **Embeddings & QA Retrieval**: Embeddings are generated, which are used in a question-answer retrieval system augmented by external knowledge and specific tasks.
+- **Tasks & Knowledge**: Task-specific instructions and knowledge sources are employed to guide the LLM in analyzing the transcript.
+- **LLM (ChatOpenAI)**: The Large Language Model processes the transcript using the task instructions and knowledge.
+- **Output Parsing**: The results are parsed and formatted.
+- **Results**: Final results are generated, which include visualizations and detailed analyses.
 
 ## Configuration
 
