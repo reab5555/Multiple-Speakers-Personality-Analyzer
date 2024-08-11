@@ -23,6 +23,8 @@ Additionally, the system can process and analyze interpersonal dynamics and conv
 
 <img src="appendix/AI Personality Detection flow - 1.png" width="500" alt="alt text">
 
+## Workflow Overview
+
 - **Diarization**: Identify and label speakers in the video.    
 - **Identify Language**: Detect the language of the conversation.   
 - **Transcription**: Convert spoken content into written text.   
@@ -33,6 +35,8 @@ Additionally, the system can process and analyze interpersonal dynamics and conv
 - **Parse and Format Outputs**: Structure the analysis results into human-readable formats.   
 
 <img src="appendix/AI Personality Detection flow - 2.png" width="500" alt="alt text">
+
+## Technical Details
 
 - **Transcription & Diarization (AWS Transcribe)**: The audio is transcribed to text, with speaker diarization to label each segment by different speakers.
 - **Embeddings & QA Retrieval**: Embeddings are generated, which are used in a question-answer retrieval system augmented by external knowledge and specific tasks.
