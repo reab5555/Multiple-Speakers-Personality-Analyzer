@@ -23,7 +23,7 @@ Additionally, the system can process and analyze interpersonal dynamics and conv
 
 ### Overview Flowchart
 
-![Transcript Generation Workflow](appendix/technical_workflow_2.png)
+![Transcript Generation Workflow](appendix/AI Personality Detection flow - 1.png)
 
 **Diarization**: Identify and label speakers in the video.
 **Identify Language**: Detect the language of the conversation.
@@ -36,7 +36,7 @@ Additionally, the system can process and analyze interpersonal dynamics and conv
 
 ## Technical Flowchart
 
-![Technical Workflow](appendix/technical_workflow_1.png)
+![Technical Workflow](AI Personality Detection flow - 2.png)
 
 1. **Video Input**: A video file is input into the system.
 2. **Transcription & Diarization (AWS Transcribe)**: The audio is transcribed to text, with speaker diarization to label each segment by different speakers.
