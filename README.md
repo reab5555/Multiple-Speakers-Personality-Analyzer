@@ -20,6 +20,45 @@ Additionally, the system can process and analyze interpersonal dynamics and conv
 - **Data Visualization**: Visualizes the analysis results using interactive plots and charts.
 - **User-Friendly Interface**: Simple to use interface built with Gradio.
 
+## Technical Workflow
+
+### High-Level Overview
+
+![Technical Workflow](https://via.placeholder.com/1000x200)
+
+1. **Video Input**: A video file is input into the system.
+2. **Transcription & Diarization (AWS Transcribe)**: The audio is transcribed to text, with speaker diarization to label each segment by different speakers.
+3. **Embeddings & QA Retrieval**: Embeddings are generated, which are used in a question-answer retrieval system augmented by external knowledge and specific tasks.
+4. **Tasks & Knowledge**: Task-specific instructions and knowledge sources are employed to guide the LLM in analyzing the transcript.
+5. **LLM (ChatOpenAI)**: The Large Language Model processes the transcript using the task instructions and knowledge.
+6. **Output Parsing**: The results are parsed and formatted.
+7. **Results**: Final results are generated, which include visualizations and detailed analyses.
+
+### Detailed Workflow
+
+#### Transcript Generation
+
+![Transcript Generation Workflow](https://via.placeholder.com/1000x400)
+
+1. **Diarization**: Identify and label speakers in the video.
+2. **Identify Language**: Detect the language of the conversation.
+3. **Transcription**: Convert spoken content into written text.
+4. **Transcript by Speakers**: Create a structured transcript with speaker labels.
+
+#### Get Answers
+
+1. **Knowledge Integration**: Enhance the LLM with external knowledge about Attachments, Big Five traits, and Personalities.
+2. **Task Definition**: Define specific tasks that guide the LLM on how to analyze the transcript.
+3. **LLM Processing**: Use the LLM to analyze the transcript according to the tasks and integrated knowledge.
+
+#### Parsing Outputs
+
+1. **Parse and Format Outputs**: Structure the analysis results into human-readable formats.
+
+#### Final Results
+
+1. The results are visualized and presented in a user-friendly format.
+
 ## Configuration
 
 The project uses several configuration files to customize tasks and knowledge bases:
