@@ -56,7 +56,41 @@ The source material used for embedding consists of academic documents on attachm
 - **LLM Processing**: Use the LLM to analyze the transcript according to the tasks and integrated knowledge.   
 - **Parse and Format Outputs**: Structure the analysis results into human-readable formats.
 
-<img src="appendix/AI Personality Detection flow - 1.png" width="700" alt="alt text">
+<table>
+  <tr>
+    <td>
+      <p align="center">
+        <img src="appendix/MS_DIST_EDSS.png" width="150" />
+      </p>
+    </td>
+    <td>
+      <p align="center">
+        <img src="appendix/MS_DIST_LESION.png" width="150" />
+      </p>
+    </td>
+    <td>
+      <p align="center">
+        <img src="appendix/MS_DIST_WB.png" width="150" />
+      </p>
+    </td>
+    <td>
+      <p align="center">
+        <table>
+          <tr>
+            <td>
+              <img src="appendix/MS_EDSS_MSTYPE_DIST.png" width="200" />
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <img src="appendix/MS_TR_EDSS.png" width="200" />
+            </td>
+          </tr>
+        </table>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ## Technical Details
 
