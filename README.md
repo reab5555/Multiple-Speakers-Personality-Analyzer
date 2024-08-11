@@ -68,8 +68,3 @@ The source material used for embedding consists of academic documents on attachm
 - **Results**: Final results are generated, which include visualizations and detailed analyses.
 
 <img src="appendix/AI Personality Detection flow - 2.png" width="700" alt="alt text">
-
-  - `tasks/Attachments_task.txt`
-  - `tasks/BigFive_task.txt`
-  - `tasks/Personalities_task.txt`
-
