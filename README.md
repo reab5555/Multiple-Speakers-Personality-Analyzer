@@ -23,7 +23,7 @@ Additionally, the system can process and analyze interpersonal dynamics and conv
 ## QA Retrieval:
 
   RAG (Retrieval-Augmented Generation):
-        Combines retrieval and generation. First, it retrieves relevant documents from a large corpus, then generates answers based on those documents using a language model.
+        Combines retrieval and generation. First, it retrieves relevant articles and documents from a large corpus, then generates answers based on those documents using a language model.
 
   FAISS (Facebook AI Similarity Search):
         Used to efficiently retrieve top k relevant documents by comparing vector embeddings of the query and documents. It uses Approximate Nearest Neighbor (ANN) search to handle large-scale data quickly.
