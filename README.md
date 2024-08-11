@@ -23,7 +23,7 @@ Additionally, the system can process and analyze interpersonal dynamics and conv
 
 <img src="appendix/AI Personality Detection flow - 1.png" width="500" alt="alt text">
 
-**Diarization**: Identify and label speakers in the video.
+**Diarization**: Identify and label speakers in the video. 
 **Identify Language**: Detect the language of the conversation.
 **Transcription**: Convert spoken content into written text.
 **Transcript by Speakers**: Create a structured transcript with speaker labels
