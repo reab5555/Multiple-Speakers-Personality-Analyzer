@@ -21,8 +21,6 @@ Additionally, the system can process and analyze interpersonal dynamics and conv
 - **User-Friendly Interface**: Simple to use interface built with Gradio.
 
 
-### Overview Flowchart
-
 <img src="appendix/AI Personality Detection flow - 1.png" width="500" alt="alt text">
 
 **Diarization**: Identify and label speakers in the video.
@@ -33,8 +31,6 @@ Additionally, the system can process and analyze interpersonal dynamics and conv
 **Task Definition**: Define specific tasks that guide the LLM on how to analyze the transcript.
 **LLM Processing**: Use the LLM to analyze the transcript according to the tasks and integrated knowledge.
 **Parse and Format Outputs**: Structure the analysis results into human-readable formats.
-
-## Technical Flowchart
 
 <img src="appendix/AI Personality Detection flow - 2.png" width="500" alt="alt text">
 
