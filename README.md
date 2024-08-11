@@ -23,7 +23,7 @@ Additionally, the system can process and analyze interpersonal dynamics and conv
 
 ### Overview Flowchart
 
-![Transcript Generation Workflow](appendix/AI Personality Detection flow - 1.png)
+![Transcript Generation Workflow]('appendix/AI Personality Detection flow - 1.png')
 
 **Diarization**: Identify and label speakers in the video.
 **Identify Language**: Detect the language of the conversation.
