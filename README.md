@@ -33,7 +33,7 @@ Additionally, the system can process and analyze interpersonal dynamics and conv
 - **LLM Processing**: Use the LLM to analyze the transcript according to the tasks and integrated knowledge.   
 - **Parse and Format Outputs**: Structure the analysis results into human-readable formats.
 
-<img src="appendix/AI Personality Detection flow - 1.png" width="500" alt="alt text">
+<img src="appendix/AI Personality Detection flow - 1.png" width="700" alt="alt text">
 
 ## Technical Details
 
@@ -44,7 +44,7 @@ Additionally, the system can process and analyze interpersonal dynamics and conv
 - **Output Parsing**: The results are parsed and formatted.
 - **Results**: Final results are generated, which include visualizations and detailed analyses.
 
-<img src="appendix/AI Personality Detection flow - 2.png" width="500" alt="alt text">
+<img src="appendix/AI Personality Detection flow - 2.png" width="700" alt="alt text">
 
 ## Configuration
 
