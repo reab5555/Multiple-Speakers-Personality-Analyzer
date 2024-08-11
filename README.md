@@ -20,7 +20,7 @@ Additionally, the system can process and analyze interpersonal dynamics and conv
 - **Data Visualization**: Visualizes the analysis results using interactive plots and charts.
 - **User-Friendly Interface**: Simple to use interface built with Gradio.
 
-**RAG (Retrieval-Augmented Generation):**
+## RAG (Retrieval-Augmented Generation)
 
 RAG is a technique that combines retrieval and generation to answer questions or complete tasks. It works by first retrieving relevant documents from a large corpus and then using those documents to generate an answer with a language model.
 
