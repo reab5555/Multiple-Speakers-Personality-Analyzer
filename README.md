@@ -12,13 +12,6 @@ This project loads a video file and generates a transcript with speaker identifi
 
 Additionally, the system can process and analyze interpersonal dynamics and conversations from the transcription, as each line of text is attributed to a specific speaker. This enables the LLM to identify interpersonal communication patterns and analyze them to derive meaningful psychological and personality insights.
 
-Key functionalities include:
-
-- Overall Personality Impressions: The system provides an overall impression of each speaker's personality based on their communication patterns and language use.
-- Big Five Personality Traits: It assesses and reports on the Big Five personality traits—Openness, Conscientiousness, Extraversion, Agreeableness, and Neuroticism—for each speaker.
-- Attachment Styles: The system can identify and provide insights into the attachment styles of the speakers, offering a deeper understanding of their interpersonal dynamics.
-- Personality Styles or Disorders: The system may also identify potential personality styles or disorders based on the speakers' communication, though this is not a substitute for a professional clinical diagnosis.
-
 **Important Disclaimer:** The insights provided by this system are not clinical diagnoses. They should not be considered as professional psychological or psychiatric evaluations. For any real clinical assessment or diagnosis, it is essential to consult a licensed psychologist or psychiatrist.
 
 
@@ -26,6 +19,7 @@ Key functionalities include:
 
 - **Transcription & Diarization**: Uses AWS Transcribe to convert speech to text and label different speakers.
 - **Personality Analysis**: Provides comprehensive analysis based on:
+  - Overall Personality Impressions
   - Attachment styles
   - Big Five personality traits
   - Personality disorders
