@@ -29,9 +29,9 @@ Additionally, the system can process and analyze interpersonal dynamics and conv
         Used to efficiently retrieve top k relevant documents by comparing vector embeddings of the query and documents. It uses Approximate Nearest Neighbor (ANN) search to handle large-scale data quickly.
 
   Workflow:
-        Step 1: Query is passed to FAISS for retrieval of similar documents.
-        Step 2: (Optional) Retrieved documents may be re-ranked for relevance.
-        Step 3: A language model generates an answer using the top retrieved documents as context.
+        Step 1: Query is passed to FAISS for retrieval of similar documents.   
+        Step 2: (Optional) Retrieved documents may be re-ranked for relevance.   
+        Step 3: A language model generates an answer using the top retrieved documents as context.   
 
 ### Knowledge Corpus:
 The source material used for embedding consists of academic documents on attachment styles and personalities, all with high theoretical and empirical validity. This collection also includes relevant questionnaires and diagnostic manuals such as DSM-5 and PDM-2.
