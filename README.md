@@ -20,11 +20,23 @@ Additionally, the system can process and analyze interpersonal dynamics and conv
 - **Data Visualization**: Visualizes the analysis results using interactive plots and charts.
 - **User-Friendly Interface**: Simple to use interface built with Gradio.
 
-## Technical Workflow
 
-### High-Level Overview
+### Overview Flowchart
 
-![Technical Workflow](https://via.placeholder.com/1000x200)
+![Transcript Generation Workflow](appendix/technical_workflow_2.png)
+
+**Diarization**: Identify and label speakers in the video.
+**Identify Language**: Detect the language of the conversation.
+**Transcription**: Convert spoken content into written text.
+**Transcript by Speakers**: Create a structured transcript with speaker labels
+**Knowledge Integration**: Enhance the LLM with external knowledge about Attachments, Big Five traits, and Personalities.
+**Task Definition**: Define specific tasks that guide the LLM on how to analyze the transcript.
+**LLM Processing**: Use the LLM to analyze the transcript according to the tasks and integrated knowledge.
+**Parse and Format Outputs**: Structure the analysis results into human-readable formats.
+
+## Technical Flowchart
+
+![Technical Workflow](appendix/technical_workflow_1.png)
 
 1. **Video Input**: A video file is input into the system.
 2. **Transcription & Diarization (AWS Transcribe)**: The audio is transcribed to text, with speaker diarization to label each segment by different speakers.
@@ -33,21 +45,6 @@ Additionally, the system can process and analyze interpersonal dynamics and conv
 5. **LLM (ChatOpenAI)**: The Large Language Model processes the transcript using the task instructions and knowledge.
 6. **Output Parsing**: The results are parsed and formatted.
 7. **Results**: Final results are generated, which include visualizations and detailed analyses.
-
-### Detailed Workflow
-
-#### Transcript Generation
-
-![Transcript Generation Workflow](https://via.placeholder.com/1000x400)
-
-1. **Diarization**: Identify and label speakers in the video.
-2. **Identify Language**: Detect the language of the conversation.
-3. **Transcription**: Convert spoken content into written text.
-4. **Transcript by Speakers**: Create a structured transcript with speaker labels.
-1. **Knowledge Integration**: Enhance the LLM with external knowledge about Attachments, Big Five traits, and Personalities.
-2. **Task Definition**: Define specific tasks that guide the LLM on how to analyze the transcript.
-3. **LLM Processing**: Use the LLM to analyze the transcript according to the tasks and integrated knowledge.
-**Parse and Format Outputs**: Structure the analysis results into human-readable formats.
 
 ## Configuration
 
