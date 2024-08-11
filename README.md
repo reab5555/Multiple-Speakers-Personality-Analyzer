@@ -20,18 +20,20 @@ Additionally, the system can process and analyze interpersonal dynamics and conv
 - **Data Visualization**: Visualizes the analysis results using interactive plots and charts.
 - **User-Friendly Interface**: Simple to use interface built with Gradio.
 
-## QA Retrieval:
+**RAG (Retrieval-Augmented Generation):**
 
-  RAG (Retrieval-Augmented Generation):
-        Combines retrieval and generation. First, it retrieves relevant articles and documents from a large corpus, then generates answers based on those documents using a language model.
+RAG is a technique that combines retrieval and generation to answer questions or complete tasks. It works by first retrieving relevant documents from a large corpus and then using those documents to generate an answer with a language model.
 
-  FAISS (Facebook AI Similarity Search):
-        Used to efficiently retrieve top k relevant documents by comparing vector embeddings of the query and documents. It uses Approximate Nearest Neighbor (ANN) search to handle large-scale data quickly.
+**How RAG Uses Embeddings with FAISS:**
 
-  Workflow:
-        Step 1: Query is passed to FAISS for retrieval of similar documents.   
-        Step 2: (Optional) Retrieved documents may be re-ranked for relevance.   
-        Step 3: A language model generates an answer using the top retrieved documents as context.   
+1. **Embeddings:**
+   - RAG converts both the query and the documents into dense vector embeddings that capture their semantic meaning.
+
+2. **FAISS Integration:**
+   - FAISS is used to index and search these embeddings. When a query is made, FAISS quickly retrieves the most relevant documents by comparing the query's embedding to the document embeddings using Approximate Nearest Neighbor (ANN) search.
+
+3. **Answer Generation:**
+   - The retrieved documents' embeddings are then fed into a language model, which generates a context-aware answer based on the most relevant documents.
 
 ### Knowledge Corpus:
 The source material used for embedding consists of academic documents on attachment styles and personalities, all with high theoretical and empirical validity. This collection also includes relevant questionnaires and diagnostic manuals such as DSM-5 and PDM-2.
