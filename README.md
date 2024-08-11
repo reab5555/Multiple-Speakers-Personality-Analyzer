@@ -1,6 +1,6 @@
 <img src="appendix/icon.webp" width="100" alt="alt text">
 
-# Multiple-Speakers-AI-Personality-Detection
+# AI-Multiple-Speakers-Personality-Detection
 
 This project provides an advanced AI system designed for diagnosing and profiling personality attributes from video content based on a single speaker or multiple speakers in a conversation.   
 
