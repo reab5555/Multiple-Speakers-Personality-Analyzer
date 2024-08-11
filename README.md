@@ -3,18 +3,11 @@ This project provides an advanced AI system designed for diagnosing and profilin
 
 It transcribes video content, identifies speakers, and performs a comprehensive analysis of attachment styles, Big Five personality traits, and personality disorders.
 
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Features](#features)
-- [Configuration](#configuration)
-- [Structure](#structure)
-- [Contribution](#contribution)
-- [License](#license)
-
 ## Introduction
 
-This project loads a video file and generates a transcript with speaker identification for each of their texts. It utilizes a Large Language Model (LLM) artificial intelligence, enhanced with external knowledge input and task instructions using Retrieval-Augmented Generation (RAG) techniques through Langchain, to detect personality types of the different speakers involved in the video conversation.
+This project loads a video file and generates a transcript with speaker identification for each of their texts. It utilizes a Large Language Model (LLM), enhanced with external knowledge input and task instructions using Retrieval-Augmented Generation (RAG) techniques to detect personality types of the different speakers involved in the video.
+
+Additionally, the system can process and analyze interpersonal dynamics and conversations from the transcription, as each line of text is attributed to a specific speaker. This enables the LLM to identify interpersonal communication patterns and analyze them to derive meaningful psychological and personality insights.
 
 ## Features
 
