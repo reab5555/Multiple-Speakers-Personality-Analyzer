@@ -20,7 +20,7 @@ Additionally, the system can process and analyze interpersonal dynamics and conv
 - **Data Visualization**: Visualizes the analysis results using interactive plots and charts.
 - **User-Friendly Interface**: Simple to use interface built with Gradio.
 
-### QA Retrieval with RAG and FAISS:
+### QA Retrieval:
 
   RAG (Retrieval-Augmented Generation):
         Combines retrieval and generation. First, it retrieves relevant documents from a large corpus, then generates answers based on those documents using a language model.
