@@ -68,3 +68,10 @@ The source material used for embedding consists of academic documents on attachm
 - **Results**: Final results are generated, which include visualizations and detailed analyses.
 
 <img src="appendix/AI Personality Detection flow - 2.png" width="700" alt="alt text">
+
+## LLM Model Parameters
+
+For efficiency purposes, the GPT-4o mini model by OpenAI was utilized with the following settings:
+- **Temperature**: 0.01
+- **Max Tokens**: 4096
+- **Top P**: 0.8
