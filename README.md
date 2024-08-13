@@ -73,5 +73,4 @@ The source material used for embedding consists of academic documents on attachm
 
 For efficiency purposes, the GPT-4o mini model by OpenAI was utilized with the following settings:
 - **Temperature**: 0.01
-- **Max Tokens**: 4096
 - **Top P**: 0.9
