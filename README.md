@@ -6,6 +6,8 @@ This project provides an advanced AI system designed for diagnosing and profilin
 
 It transcribes video content, identifies speakers, and performs a comprehensive analysis of attachment styles, Big Five personality traits, and personality disorders.
 
+[Demo](https://huggingface.co/spaces/reab5555/Multiple-Speakers-Personality-Analyzer)
+
 ## Introduction
 
 This project loads a video file and generates a transcript with speaker identification for each of their texts. It utilizes a Large Language Model (LLM), enhanced with external knowledge input and task instructions using Retrieval-Augmented Generation (RAG) techniques to detect personality types of the different speakers involved in the video.
