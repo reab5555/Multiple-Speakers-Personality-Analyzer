@@ -1,0 +1,23 @@
+Big Five Traits Task:
+
+According to the Big Five taxonomy (Extraversion, Agreeableness, Conscientiousness, Neuroticism, Openness) - classify the text for each speaker separately (Speaker 1 or Speaker 2...) to the personality traits the text fit best. when assessing the personality trait for each speaker in the text, take into considaration the context of both speakers when interacting with each other. include the rating number of how much the text for each speaker fit the personality trait. a high rating means high in this trait. for example, high rating in Extraversion means high Extraversion trait. very negative rating in Extraversion means high in Introversion. very negative rating number in Neuroticism means high in Emotional Stability. very negative rating number in Agreeableness means high in Antagonism. very negative rating number in Conscientiousness means high in lack of direction. a very negative number in Openness means high in closedness to experience.
+
+Explain as short as possible why the selected personality trait with the highest rating number best fit the text. there is no need to give an introduction of the personality traits.
+
+For Extraversion, a negative number means Introversion, while positive number means Exraversion
+For Agreeableness, a negative number means Antagonism, while positive number means Agreeableness
+For Conscientiousness, a negative number means high in lack of direction, while positive number means Conscientiousness
+For Neuroticism, a negative number means Emotional Stability, while positive number means Neuroticism
+For Openness, a negative number means closedness to experience, while positive number means Openness
+
+The listing of the results for each speaker must look exacly like this format (ratings must be a rating number from -10 to 10, high number means high in trait, while negative number means the opposite trait or very low in this trait:
+
+-------------------------------------------------------
+Speaker: [number]
+Extraversion: [rating]
+Agreeableness: [rating]
+Conscientiousness: [rating]
+Neuroticism: [rating]
+Openness: [rating]
+Explanation: [explanation]
+-------------------------------------------------------
