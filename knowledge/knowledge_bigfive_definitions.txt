@@ -1,0 +1,67 @@
+The Big Five five-factor personality traits are as follows:
+
+- Extraversion (talktive, assertive, energetic, outgoing, gregariousness, sociable, excitement-seeking, adventurous, enthusiastic, outgoing, show-off, spunky, noisy, bossy), - the opposite is Introversion (solitary, reserved, quiet, withdrawn).
+
+- Agreeableness (good-natured, cooperative, trustful, forgiving, straightforward, not demanding, altruitstic, not stubborn, modest, tender-minded, sympathetic, kind, appreciative, affectionate, soft-hearted, generous, helpful, pleasant, friendly, cooperative, gentle, unselfish, praising), the opposite is Antagonism (critical, rational, fault-finding, unfriendly, quarrelsome, hard-hearted, unkind, cruel).
+
+- Conscientiousness (orderly, responsible, efficient, organized, competence, efficient, dutiful, not careless, achievement striving, self-discipline, not lazy, delberative, not impulsive, organized, thorough, planful, reliable, conscientious, precise, practical, deliberate, painstaking), the opposite is lack of direction (extravagant, careless, disorderly, frivolous, irresponsible, slipshop, forgetful).
+
+- Neuroticism (stressed, anxious, neurotic, easily upset, sensitive, nervous, irritable, not contented, shy, impulsive, not self-confident, tense, worrying, moody, fearful, high-strung, self-pitying, temperamental, unstable, self-punishing, despondent), the opposite is emotional stability (calm, not neurotic, not easily upset, resilient, confident, stable, contented).
+
+- Openness or Openness to experience (intellectual, imaginative, independant-minded, inventive, curious, artistic, wide interests, original, insightful, sophisticated, inventive, sharp-witted, ingenious, witty), the opposite is closedness to experience (cautious, narrow interests, simple, shallow).
+
+NEO‐PI‐R measures the five personality domains in FFM. Each of these domains consists
+of six facet scales with each facet scale containing eight items, resulting in a total of 30 facet
+scales and 240 items. These items are rated on a 5‐point Likert‐type scale including Strongly
+
+­Contents and Structure of  NEO-PI-339
+Disagree (SD), Disagree (D), Neutral (N), Agree (A), to Strongly Agree (SA). These facet scales
+and items are balanced to control for acquiescence effect.
+The five domains and 30 facet scales are summarized below with a brief description
+based on the Manual of the NEO‐PI‐R.
+
+Neuroticism:
+N: Neuroticism Tendency to experience of psychological distress
+N1: Anxiety Experience of free‐floating anxiety
+N2: Angry Hostility Experience of anger and related states
+N3: Depression Feelings of guilt, sadness, despondency, and loneliness
+N4: Self‐Consciousness Shyness or social anxiety
+N5: Impulsiveness Act on cravings and urges rather than reining them in
+N6: Vulnerability General susceptibility to stress
+
+Extraversion:
+E: Extraversion Quantity and intensity of energy directed outwards
+E1: Warmth Interest in and friendliness towards others
+E2: Gregariousness Preference for the company of others
+E3: Assertiveness Social ascendancy and forcefulness of expression
+E4: Activity Pace of living
+E5: Excitement Seeking Need for environmental stimulation
+E6: Positive Emotions Tendency to experience positive emotions
+
+Openness:
+O: Openness Active seeking and appreciation of experiences
+O1: Fantasy Receptivity to the inner world of imagination
+O2: Aesthetics Appreciation of art and beauty
+O3: Feelings Openness to inner feelings and emotions
+O4: Actions Openness to new experiences on a practical level
+O5: Ideas Intellectual curiosity
+O6: Values Readiness to reexamine own values and those of authority figures
+
+Agreeableness:
+A: Agreeableness Interactions one prefers from compassion to tough mindedness
+A1: Trust Belief in the sincerity and good intentions of others
+A2: Straightforwardness Frankness in expression
+A3: Altruism Active concern for the welfare of others
+A4: Compliance Response to interpersonal conflict
+A5: Modesty Tendency to play down own achievements and be humble
+A6: Tender‐Mindedness Attitude of sympathy for others
+
+Conscientiousness:
+C: Conscientiousness Organized, persistent, and motivated in goal directed behavior
+C1: Competence Belief in own self‐efficacy
+C2: Order Personal organization
+C3: Dutifulness Emphasis on fulfilling moral and ethical obligations
+C4: Achievement Striving Need for personal achievement and sense of direction
+C5: Self‐Discipline Capacity to get job done on time
+C6: Deliberation Tendency to think things through before acting or speaking
+
