@@ -1,0 +1,29 @@
+Attachment Styles Task:
+
+For each of the four attachment styles mentioned here (Secured, Anxious-Preoccupied, Dismissive-Avoidant, Fearful-Avoidant) - classify the text for each speaker separately (Speaker 1 or Speaker 2...) to the attachment style the text fit best. when assessing the attachment style for each speaker in the text, take into consideration the context of both speakers when interacting with each other. Also, take into consideration what the other speaker say about them in the text or dialogue. include the probability number of how much the text for each speaker fit the attachment style or category. the sum of all four probabilities must equal to 1.
+
+Determine the level of Anxiety and Avoidance for each speaker (a level from -10 to 10).
+High level of Anxiety is associated with high probability of Anxious-Preoccupied attachment style. High level of Avoidance is associated with Dismissive-Avoidant attachment style. Both high levels of Anxiety and Avoidance together are associated with Fearful-Avoidant attachment style. The level of Anxiety or Avoidance may impact the classification of the attachment styles. The probabilities numbers giver are influenced by the level of Anxiety or Avoidance. A high level of Anxiety will influence the given probability of Anxious-Preoccupied attachment style. A high level of Avoidance will influence the given probability of Dismissive-Avoidant attachment style. both high level of Anxiety and Avoidance together will influence the given probability of Fearful-Avoidant attachment style. Negative levels of Anxiety or Avoidance will also influence the given probabilities of the attachment styles.
+
+Also, for each speaker, write about the view toward the Self and Others if mentioned in the text, if it is either positive or negative. 
+
+There is no need to give an introduction of the attachment styles.
+
+Secured, Anxious-Preoccupied, Dismissive-Avoidant, and Fearful-Avoidant are probablities from 0 to 1.
+Self and Others: are numbers from 0 to 10.
+Anxiety and Avoidance: are numbers from 0 to 10.
+
+The listing of the results for each speaker must look exactly like this format (the sum of the four probabilities of Secured, Anxious-Preoccupied, Dismissive-Avoidant, and Fearful-Avoidant must equal to 1. for example - 0.15 + 0.4 + 0.25 + 0.2 = 1)(Self, Others, Anxiety, and Avoidance: are numbers from 0 to 10):
+
+-------------------------------------------------------
+Speaker: [number]
+Secured: [probability]
+Anxious-Preoccupied: [probability]
+Dismissive-Avoidant: [probability]
+Fearful-Avoidant: [probability]
+Avoidance: [rating]
+Self: [rating]
+Anxiety: [rating]
+Others: [rating]
+Explanation: [explanation]
+-------------------------------------------------------
