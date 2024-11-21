@@ -6,7 +6,7 @@ This project provides an advanced AI system designed for diagnosing and profilin
 
 It transcribes video content, identifies speakers, and performs a comprehensive analysis of attachment styles, Big Five personality traits, and personality disorders.
 
-[Demo](https://huggingface.co/spaces/reab5555/Multiple-Speakers-Personality-Analyzer)
+Use the hosted demo: [Multiple Speakers Personality Analyzer](https://huggingface.co/spaces/reab5555/Multiple-Speakers-Personality-Analyzer)
 
 ## Introduction
 
